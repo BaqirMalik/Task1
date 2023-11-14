@@ -1,0 +1,13 @@
+.education{
+    height: 615px;
+    padding-top:150px;
+    vertical-align: center;
+}
+.edu_details h2{
+    font-size: 30px;
+    font-weight: 600;
+    font-family: "Poppins", sans-serif;
+}
+.edu_details td{
+    font-family: "Poppins", sans-serif;
+}

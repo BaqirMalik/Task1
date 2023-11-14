@@ -1,0 +1,29 @@
+footer{
+    background-color: #212529;
+    height:40px;
+    position: fixed;
+    width: 100%;
+    bottom:0;
+}
+.footer_text{
+    text-align: center;
+}
+.footer_text i{
+    padding-left: 20px;
+    font-size: 25px;
+    padding-top:10px;
+    color:#fff;
+}
+.footer_text i:hover{
+    font-size:26px;
+}
+.linkedin{
+    color:rgb(78, 78, 236) !important;
+}
+
+.youtube{
+    color:red !important;
+}
+.whatsapp{
+    color:green !important;
+}
